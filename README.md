@@ -11,5 +11,3 @@
 1 assignment - 10%
 
 ## Lecture notes and exam papers are available on Google Drive.
-
-https://drive.google.com/drive/folders/1DIeGwZun_Re_i-_Gm4h9zz8weeffmrXX?usp=sharing
